@@ -12,6 +12,5 @@
 
 ## 📒 Notion Note 📒
 
-https://ozyworld.notion.site/BaekJoon-e3e6829aa4ad4766be8234a16fdd4374?pvs=4
 
-https://ozyworld.notion.site/Do-it-C-8fcd9574ed6740d88ac41de89df8f79f?pvs=4
+[<img src = "https://github.com/OGYWORLD/Baekjoon_CPP/assets/76478579/4a8a2701-620a-414c-97da-da0feafb9437" width="20%">](https://ozyworld.notion.site/Do-it-C-ad28ee1293304f37b5ace2613efa6cfb?pvs=4)
